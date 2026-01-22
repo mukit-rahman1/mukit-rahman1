@@ -4,7 +4,7 @@ I currently an executive web developer at Queen's UX Club.
 ## 🚀 What I'm Up To
  - Exploring parallel processing and cluster computing
  - Learning Computer Networking and Operating System-related concepts
- - Contributing to Queen's Space Engineering Team by building a ground station server and developing Zephyr RTOS features on the Satellite Board
+ - Contributing to Queen's Space Engineering Team by building a ground station server and developing Zephyr RTOS features on the Satellite Communications Board
  - Learning Three.js, Blender, and Computer Graphics
 
 ## 🌐 Connect with me:
