@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third-year Computer Engineering student at Queen's University, interested in computer systems, ASIC design,<br>embedded systems and firmware, and building robust applications.  
+I'm a third-year Computer Engineering student at Queen's University, interested in embedded systems, systems programming,<br> building robust applications, and computer graphics.  
 I currently an executive web developer at Queen's UX Club.
 ## 🚀 What I'm Up To
  - Exploring parallel processing and cluster computing
