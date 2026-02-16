@@ -9,7 +9,7 @@ Aspiring Embedded Developer.
 
 
 ## 🌐 Connect with me:
-Looking for 12-16-month co-op opportunities starting May 2026  
+Seeking 12-16-month co-op opportunities starting May 2026  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mukit-rahman-23b952284) 
 
 # 💻 Tech Stack:
