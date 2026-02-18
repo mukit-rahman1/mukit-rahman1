@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a third-year Computer Engineering student at Queen's University, interested in embedded systems, systems programming,<br> RTOS, building robust applications, and computer graphics.  
 I currently an executive web developer at Queen's UX Club.  
-Aspiring Embedded Developer.
+
 ## 🚀 What I'm Up To
  - Exploring parallel processing and cluster computing
  - Learning RTOS, Computer Networking and Operating System-related concepts
